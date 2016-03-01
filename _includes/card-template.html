@@ -2,9 +2,9 @@
 
   <div class="card-image">
     {% if card.image_href %}
-      <a href="{{ card.image_href }}" target="_blank"><img src="{{ site.github.url }}/images/{{ card.image }}"/></a>
+      <a href="{{ card.image_href }}" target="_blank"><img src="{{ site.baseurl }}/images/{{ card.image }}"/></a>
     {% else %}
-      <img src="{{ site.github.url }}/images/{{ card.image }}"/>
+      <img src="{{ site.baseurl }}/images/{{ card.image }}"/>
     {% endif %}
   </div>
 
