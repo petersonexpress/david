@@ -4,9 +4,9 @@ image: vimeo.jpg
 image_href: https://vimeo.com/randomphotons
 header: Vimeo
 tags:
-  - Film
-  - Producing
-  - Editing
+  - film
+  - producing
+  - editing
 sort: 6
 ---
-My [Vimeo channel](http://vimeo.com/randomphotons) has some of my older projects.
+My [Vimeo channel](http://vimeo.com/randomphotons) has a few of my other projects.
