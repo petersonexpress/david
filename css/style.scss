@@ -30,7 +30,7 @@ body {
   color: $text-color;
   margin: 0px;
   padding: 0px;
-  background: url("../images/bg.png")
+  background: black;
 }
 
 a {
@@ -101,6 +101,7 @@ ul.header-icons li a img:hover {
   margin: 0 auto 30px;
   padding-left: 10px;
   padding-right: 10px;
+  color: white;
   img .logo {
     width: 100px;
     height: 98px;
@@ -112,10 +113,6 @@ ul.header-icons li a img:hover {
     text-align: left;
     font-size: 4rem;
     font-weight: 300;
-    span {
-      font-size: 3rem;
-      color: #7dc679;
-    }
     @media (max-width: 800px) {
       margin-left: 120px;
     }
@@ -201,8 +198,6 @@ ul.header-icons li a img:hover {
   margin-bottom: 0px;
   margin-right: 0px;
   padding:0px;
-  background: #eeeeee;
-  background: url("../images/bg.png");
 }
 
 .eachpost {
