@@ -10,4 +10,4 @@ tags:
   - space
 sort: 5
 ---
-My [Youtube channel](http://youtube.com/bitmeizer) has some of my previous work. Approved by astronauts!
+My [YouTube channel](http://youtube.com/bitmeizer) has some of my previous work. Approved by astronauts!

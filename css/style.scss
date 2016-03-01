@@ -281,7 +281,7 @@ ul.list-inline > li {
 }
 
 a.cd-filter-trigger {
-  background: transparent url("/images/icons/cd-icon-filter.svg") no-repeat center center;
+  background: transparent url("{{ site.baseurl }}/images/icons/cd-icon-filter.svg") no-repeat center center;
   left: auto;
 }
 
@@ -294,6 +294,6 @@ a.cd-filter-trigger {
 }
 
 .cd-filter-block .checkbox-label::after {
-  background: url("/images/icons/cd-icon-check.svg") no-repeat center center;
+  background: url("{{ site.baseurl }}/images/icons/cd-icon-check.svg") no-repeat center center;
 }
 */

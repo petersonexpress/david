@@ -5,3 +5,4 @@ _site/
 server/
 
 _data/resume.json
+Gemfile.lock
