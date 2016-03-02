@@ -1,36 +1,31 @@
 {
   "basics": {
-    "name": "Chad Kruse",
-    "label": "Product Strategy & New Markets",
-    "picture": "http://www.chadkruse.com/images/avatar.jpg",
+    "name": "David Peterson",
+    "label": "Freeland Producer and Programmer",
+    "picture": "http://petersonexpress.net/david/images/david_peterson.jpg",
     "email": "[email protected]",
-    "phone": "[phone protected]",
-    "website": "http://www.chadkruse.com",
-    "summary": "Before launching my own ventures and diving into JavaScript, I was often brought on as the first 'business hire' at startups of all shapes and sizes. I've run development teams, owned product strategy, entered new markets and assessed growth opportunities across the build/buy/partner spectrum. My career started as a strategist and corporate development leader for large tech companies, and I'm often told I have a unique ability to talk shop with programmers, designers, VC's, boards of directors, and everyone in between.",
+    "website": "http://randomphotons.com/",
+    "summary": "Well-travelled, over-educated.",
     "location": {
       "address": "[address protected]",
-      "postalCode": "IL 60661",
-      "city": "Chicago",
-      "countryCode": "US",
-      "region": "Midwest"
+      "postalCode": "[postcode protected]",
+      "city": "Brisbane",
+      "countryCode": "AU",
+      "region": "Queensland"
     },
     "profiles": [
       {
         "network": "Github",
-        "username": "chadokruse",
-        "url": "https://github.com/chadokruse"
-      }, {
-        "network": "AngelList",
-        "username": "chadokruse",
-        "url": "https://angel.co/chadokruse"
+        "username": "randomeizer",
+        "url": "https://github.com/randomeizer"
       }, {
         "network": "LinkedIn",
-        "username": "chadokruse",
-        "url": "https://www.linkedin.com/in/chadokruse"
+        "username": "davidpetersonau",
+        "url": "https://www.linkedin.com/in/davidpetersonau"
       }, {
         "network": "Twitter",
-        "username": "chadkruser",
-        "url": "http://twitter.com/chadkruser"
+        "username": "david_peterson",
+        "url": "http://twitter.com/david_peterson"
       }
     ]
   },
