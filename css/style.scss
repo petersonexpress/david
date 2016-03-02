@@ -159,6 +159,11 @@ ul.header-icons li a img:hover {
   }
 }
 
+.filter-bar .social a {
+  padding: 0 .25em;
+  font-size: 1.66em;
+}
+
 @media (max-width: 700px) {
   .filter-bar ul.navbar-left {
     border-bottom: 1px solid #e7e7e7;

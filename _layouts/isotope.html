@@ -2,17 +2,22 @@
 <html>
   <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-      <meta name="Description" content="Chicago-based lean-startup enthusiast, innovation consultant, and intrapreneur for good." />
-      <meta name="Keywords" content="startups, social enterprise, modern philanthropy, business development, venture capital, web, strategy, corporate development, consulting, consultant, mission related, triple bottom, double bottom" />
+      <meta name="Description" content="filmmaker, programmer, wanderer from Brisbane, Australia." />
+      <meta name="Keywords" content="film, movies, programming, java, web, code" />
       <title>{{ page.title }}</title>
       <meta name="author" content="David Peterson" />
       <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/icon.png" />
+      {% if page.redirect %}
+      <meta http-equiv="refresh" content="0;URL='{{ page.redirect }}'">
+      {% endif %}
 
       <!-- Homepage CSS -->
       <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" type="text/css" media="screen, projection" />
 
       <!-- Google Fonts -->
-      <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+      <!-- Font Awesome -->
+      <script src="https://use.fonticons.com/7b395d77.js"></script>
 
       <!-- Javascripts -->
       <script type="text/javascript" src="{{ site.baseurl }}/js/jquery-1.10.1.min.js"></script>
@@ -24,6 +29,8 @@
   </head>
   <body>
       <div id="body-wrapper">
+        {% include header-isotope.html %}
+        
         {{content}}
       </div>
       {% include body-scripts.html %}
